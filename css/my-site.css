@@ -1,0 +1,18 @@
+.col2 {
+    padding: 10%;
+}
+.col3 {
+    padding: 10%;
+}
+.center-head {
+    text-align: center;
+}
+.main-words {
+    font-size: 2em;
+}
+body {
+    background: url("../img/hello-background.png");
+}
+.bigCont {
+    background: url("../img/wov.png");
+}
